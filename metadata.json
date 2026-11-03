@@ -1,0 +1,6 @@
+{
+  "name": "AlightStudio - AI Motion Graphics & Video Editor",
+  "description": "Professional video editing and Alight Motion-grade motion graphics suite with AI audio analysis, keyframe curve editor, and personal branding kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
